@@ -8,22 +8,42 @@
 
 /* Begin PBXBuildFile section */
 		EE0F09532C88C8BB00C50BCB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE0F09522C88C8BB00C50BCB /* AppDelegate.swift */; };
-		EE0F09552C88C8BB00C50BCB /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE0F09542C88C8BB00C50BCB /* SceneDelegate.swift */; };
-		EE0F09572C88C8BB00C50BCB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE0F09562C88C8BB00C50BCB /* ViewController.swift */; };
-		EE0F095A2C88C8BB00C50BCB /* Base in Resources */ = {isa = PBXBuildFile; fileRef = EE0F09592C88C8BB00C50BCB /* Base */; };
+		EE0F09572C88C8BB00C50BCB /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE0F09562C88C8BB00C50BCB /* MainViewController.swift */; };
 		EE0F095C2C88C8BC00C50BCB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EE0F095B2C88C8BC00C50BCB /* Assets.xcassets */; };
 		EE0F095F2C88C8BC00C50BCB /* Base in Resources */ = {isa = PBXBuildFile; fileRef = EE0F095E2C88C8BC00C50BCB /* Base */; };
+		EE0F09672C88C93700C50BCB /* TestViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE0F09662C88C93700C50BCB /* TestViewController.swift */; };
+		EE0F096E2C89BE7700C50BCB /* HSKTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE0F096D2C89BE7700C50BCB /* HSKTests.swift */; };
+		EE0F09702C89BF1E00C50BCB /* HSKLevel.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE0F096F2C89BF1E00C50BCB /* HSKLevel.swift */; };
+		EE0F09722C89DF8200C50BCB /* LevelDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE0F09712C89DF8200C50BCB /* LevelDetailViewController.swift */; };
+		EE0F097B2C8A023C00C50BCB /* Answer.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE0F097A2C8A023C00C50BCB /* Answer.swift */; };
+		EE0F097D2C8A026500C50BCB /* QuestionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE0F097C2C8A026500C50BCB /* QuestionViewController.swift */; };
+		EE0F09802C8A028800C50BCB /* SixOptionsCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE0F097F2C8A028800C50BCB /* SixOptionsCell.swift */; };
+		EE0F09822C8A029A00C50BCB /* TrueFalseCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE0F09812C8A029A00C50BCB /* TrueFalseCell.swift */; };
+		EE0F09842C8A08B600C50BCB /* ThreeOptionsCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE0F09832C8A08B600C50BCB /* ThreeOptionsCell.swift */; };
+		EE0F09862C8A09B700C50BCB /* TextInputCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE0F09852C8A09B700C50BCB /* TextInputCell.swift */; };
+		EE0F09882C8A0FA500C50BCB /* FourOptionsCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE0F09872C8A0FA500C50BCB /* FourOptionsCell.swift */; };
+		EE0F098A2C8A1E3B00C50BCB /* HSK in Resources */ = {isa = PBXBuildFile; fileRef = EE0F09892C8A1E3B00C50BCB /* HSK */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		EE0F094F2C88C8BB00C50BCB /* HSK Online Test.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "HSK Online Test.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		EE0F09522C88C8BB00C50BCB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		EE0F09542C88C8BB00C50BCB /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		EE0F09562C88C8BB00C50BCB /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		EE0F09592C88C8BB00C50BCB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		EE0F09562C88C8BB00C50BCB /* MainViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
 		EE0F095B2C88C8BC00C50BCB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EE0F095E2C88C8BC00C50BCB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EE0F09602C88C8BC00C50BCB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EE0F09662C88C93700C50BCB /* TestViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestViewController.swift; sourceTree = "<group>"; };
+		EE0F096D2C89BE7700C50BCB /* HSKTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HSKTests.swift; sourceTree = "<group>"; };
+		EE0F096F2C89BF1E00C50BCB /* HSKLevel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HSKLevel.swift; sourceTree = "<group>"; };
+		EE0F09712C89DF8200C50BCB /* LevelDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LevelDetailViewController.swift; sourceTree = "<group>"; };
+		EE0F097A2C8A023C00C50BCB /* Answer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Answer.swift; sourceTree = "<group>"; };
+		EE0F097C2C8A026500C50BCB /* QuestionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuestionViewController.swift; sourceTree = "<group>"; };
+		EE0F097F2C8A028800C50BCB /* SixOptionsCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SixOptionsCell.swift; sourceTree = "<group>"; };
+		EE0F09812C8A029A00C50BCB /* TrueFalseCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrueFalseCell.swift; sourceTree = "<group>"; };
+		EE0F09832C8A08B600C50BCB /* ThreeOptionsCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThreeOptionsCell.swift; sourceTree = "<group>"; };
+		EE0F09852C8A09B700C50BCB /* TextInputCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextInputCell.swift; sourceTree = "<group>"; };
+		EE0F09872C8A0FA500C50BCB /* FourOptionsCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FourOptionsCell.swift; sourceTree = "<group>"; };
+		EE0F09892C8A1E3B00C50BCB /* HSK */ = {isa = PBXFileReference; lastKnownFileType = folder; path = HSK; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,15 +76,57 @@
 		EE0F09512C88C8BB00C50BCB /* HSK Online Test */ = {
 			isa = PBXGroup;
 			children = (
+				EE0F09892C8A1E3B00C50BCB /* HSK */,
+				EE0F097E2C8A027C00C50BCB /* Views */,
 				EE0F09522C88C8BB00C50BCB /* AppDelegate.swift */,
-				EE0F09542C88C8BB00C50BCB /* SceneDelegate.swift */,
-				EE0F09562C88C8BB00C50BCB /* ViewController.swift */,
-				EE0F09582C88C8BB00C50BCB /* Main.storyboard */,
+				EE0F096B2C89B95C00C50BCB /* Structs+Enums */,
+				EE0F096A2C89B94800C50BCB /* Controllers */,
+				EE0F09732C89E78600C50BCB /* Resources */,
+			);
+			path = "HSK Online Test";
+			sourceTree = "<group>";
+		};
+		EE0F096A2C89B94800C50BCB /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				EE0F09562C88C8BB00C50BCB /* MainViewController.swift */,
+				EE0F09662C88C93700C50BCB /* TestViewController.swift */,
+				EE0F09712C89DF8200C50BCB /* LevelDetailViewController.swift */,
+				EE0F097C2C8A026500C50BCB /* QuestionViewController.swift */,
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
+		EE0F096B2C89B95C00C50BCB /* Structs+Enums */ = {
+			isa = PBXGroup;
+			children = (
+				EE0F096D2C89BE7700C50BCB /* HSKTests.swift */,
+				EE0F096F2C89BF1E00C50BCB /* HSKLevel.swift */,
+				EE0F097A2C8A023C00C50BCB /* Answer.swift */,
+			);
+			path = "Structs+Enums";
+			sourceTree = "<group>";
+		};
+		EE0F09732C89E78600C50BCB /* Resources */ = {
+			isa = PBXGroup;
+			children = (
 				EE0F095B2C88C8BC00C50BCB /* Assets.xcassets */,
 				EE0F095D2C88C8BC00C50BCB /* LaunchScreen.storyboard */,
 				EE0F09602C88C8BC00C50BCB /* Info.plist */,
 			);
-			path = "HSK Online Test";
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		EE0F097E2C8A027C00C50BCB /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				EE0F097F2C8A028800C50BCB /* SixOptionsCell.swift */,
+				EE0F09812C8A029A00C50BCB /* TrueFalseCell.swift */,
+				EE0F09832C8A08B600C50BCB /* ThreeOptionsCell.swift */,
+				EE0F09852C8A09B700C50BCB /* TextInputCell.swift */,
+				EE0F09872C8A0FA500C50BCB /* FourOptionsCell.swift */,
+			);
+			path = Views;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,9 +187,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EE0F098A2C8A1E3B00C50BCB /* HSK in Resources */,
 				EE0F095C2C88C8BC00C50BCB /* Assets.xcassets in Resources */,
 				EE0F095F2C88C8BC00C50BCB /* Base in Resources */,
-				EE0F095A2C88C8BB00C50BCB /* Base in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,23 +200,25 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				EE0F09572C88C8BB00C50BCB /* ViewController.swift in Sources */,
+				EE0F09572C88C8BB00C50BCB /* MainViewController.swift in Sources */,
+				EE0F09882C8A0FA500C50BCB /* FourOptionsCell.swift in Sources */,
+				EE0F09802C8A028800C50BCB /* SixOptionsCell.swift in Sources */,
 				EE0F09532C88C8BB00C50BCB /* AppDelegate.swift in Sources */,
-				EE0F09552C88C8BB00C50BCB /* SceneDelegate.swift in Sources */,
+				EE0F09822C8A029A00C50BCB /* TrueFalseCell.swift in Sources */,
+				EE0F09702C89BF1E00C50BCB /* HSKLevel.swift in Sources */,
+				EE0F09842C8A08B600C50BCB /* ThreeOptionsCell.swift in Sources */,
+				EE0F096E2C89BE7700C50BCB /* HSKTests.swift in Sources */,
+				EE0F09722C89DF8200C50BCB /* LevelDetailViewController.swift in Sources */,
+				EE0F097B2C8A023C00C50BCB /* Answer.swift in Sources */,
+				EE0F097D2C8A026500C50BCB /* QuestionViewController.swift in Sources */,
+				EE0F09672C88C93700C50BCB /* TestViewController.swift in Sources */,
+				EE0F09862C8A09B700C50BCB /* TextInputCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		EE0F09582C88C8BB00C50BCB /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				EE0F09592C88C8BB00C50BCB /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
 		EE0F095D2C88C8BC00C50BCB /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
@@ -293,18 +357,19 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "HSK Online Test/Info.plist";
+				INFOPLIST_FILE = "HSK Online Test/Resources/Info.plist";
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.education";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "indo.sorbon.HSK-Online-Test";
+				PRODUCT_BUNDLE_IDENTIFIER = "indo.sorbon.hsk-online-test";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -320,18 +385,19 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "HSK Online Test/Info.plist";
+				INFOPLIST_FILE = "HSK Online Test/Resources/Info.plist";
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.education";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "indo.sorbon.HSK-Online-Test";
+				PRODUCT_BUNDLE_IDENTIFIER = "indo.sorbon.hsk-online-test";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
