@@ -22,7 +22,23 @@
 		EE0F09842C8A08B600C50BCB /* ThreeOptionsCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE0F09832C8A08B600C50BCB /* ThreeOptionsCell.swift */; };
 		EE0F09862C8A09B700C50BCB /* TextInputCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE0F09852C8A09B700C50BCB /* TextInputCell.swift */; };
 		EE0F09882C8A0FA500C50BCB /* FourOptionsCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE0F09872C8A0FA500C50BCB /* FourOptionsCell.swift */; };
-		EE0F098A2C8A1E3B00C50BCB /* HSK in Resources */ = {isa = PBXBuildFile; fileRef = EE0F09892C8A1E3B00C50BCB /* HSK */; };
+		EE0F09902C8AF27200C50BCB /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = EE0F098F2C8AF27200C50BCB /* GoogleService-Info.plist */; };
+		EE0F09932C8AF3D100C50BCB /* FirebaseAnalytics in Frameworks */ = {isa = PBXBuildFile; productRef = EE0F09922C8AF3D100C50BCB /* FirebaseAnalytics */; };
+		EE0F09952C8AF3D100C50BCB /* FirebaseAppCheck in Frameworks */ = {isa = PBXBuildFile; productRef = EE0F09942C8AF3D100C50BCB /* FirebaseAppCheck */; };
+		EE0F09972C8AF3D100C50BCB /* FirebaseAuth in Frameworks */ = {isa = PBXBuildFile; productRef = EE0F09962C8AF3D100C50BCB /* FirebaseAuth */; };
+		EE0F09992C8AF3D100C50BCB /* FirebaseMessaging in Frameworks */ = {isa = PBXBuildFile; productRef = EE0F09982C8AF3D100C50BCB /* FirebaseMessaging */; };
+		EE0F099B2C8AF3D100C50BCB /* FirebaseStorage in Frameworks */ = {isa = PBXBuildFile; productRef = EE0F099A2C8AF3D100C50BCB /* FirebaseStorage */; };
+		EE0F099E2C8AF5EE00C50BCB /* SnapKit in Frameworks */ = {isa = PBXBuildFile; productRef = EE0F099D2C8AF5EE00C50BCB /* SnapKit */; };
+		EE0F09A02C8B507200C50BCB /* TestAnswer.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE0F099F2C8B507200C50BCB /* TestAnswer.swift */; };
+		EE0F09A32C8B608100C50BCB /* FileDownloadManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE0F09A22C8B608100C50BCB /* FileDownloadManager.swift */; };
+		EE0F09A52C8B611100C50BCB /* LevelViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE0F09A42C8B611100C50BCB /* LevelViewController.swift */; };
+		EE0F09A72C8B6DF900C50BCB /* LevelTestCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE0F09A62C8B6DF900C50BCB /* LevelTestCell.swift */; };
+		EE0F09A92C8B74AA00C50BCB /* TestDownloadManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE0F09A82C8B74AA00C50BCB /* TestDownloadManager.swift */; };
+		EE0F09AB2C8B96CB00C50BCB /* TestResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE0F09AA2C8B96CB00C50BCB /* TestResultViewController.swift */; };
+		EE0F09AD2C8B98E600C50BCB /* TestResultCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE0F09AC2C8B98E600C50BCB /* TestResultCell.swift */; };
+		EE0F09B12C8BAEE400C50BCB /* hsk_1_correct_answers.json in Resources */ = {isa = PBXBuildFile; fileRef = EE0F09B02C8BAEE400C50BCB /* hsk_1_correct_answers.json */; };
+		EE0F09B32C8BB90600C50BCB /* hsk_2_correct_answers.json in Resources */ = {isa = PBXBuildFile; fileRef = EE0F09B22C8BB90600C50BCB /* hsk_2_correct_answers.json */; };
+		EE0F09B52C8BBA7500C50BCB /* hsk_3_correct_answers.json in Resources */ = {isa = PBXBuildFile; fileRef = EE0F09B42C8BBA7500C50BCB /* hsk_3_correct_answers.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -43,7 +59,17 @@
 		EE0F09832C8A08B600C50BCB /* ThreeOptionsCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThreeOptionsCell.swift; sourceTree = "<group>"; };
 		EE0F09852C8A09B700C50BCB /* TextInputCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextInputCell.swift; sourceTree = "<group>"; };
 		EE0F09872C8A0FA500C50BCB /* FourOptionsCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FourOptionsCell.swift; sourceTree = "<group>"; };
-		EE0F09892C8A1E3B00C50BCB /* HSK */ = {isa = PBXFileReference; lastKnownFileType = folder; path = HSK; sourceTree = "<group>"; };
+		EE0F098F2C8AF27200C50BCB /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		EE0F099F2C8B507200C50BCB /* TestAnswer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestAnswer.swift; sourceTree = "<group>"; };
+		EE0F09A22C8B608100C50BCB /* FileDownloadManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FileDownloadManager.swift; sourceTree = "<group>"; };
+		EE0F09A42C8B611100C50BCB /* LevelViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LevelViewController.swift; sourceTree = "<group>"; };
+		EE0F09A62C8B6DF900C50BCB /* LevelTestCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LevelTestCell.swift; sourceTree = "<group>"; };
+		EE0F09A82C8B74AA00C50BCB /* TestDownloadManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestDownloadManager.swift; sourceTree = "<group>"; };
+		EE0F09AA2C8B96CB00C50BCB /* TestResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestResultViewController.swift; sourceTree = "<group>"; };
+		EE0F09AC2C8B98E600C50BCB /* TestResultCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestResultCell.swift; sourceTree = "<group>"; };
+		EE0F09B02C8BAEE400C50BCB /* hsk_1_correct_answers.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = hsk_1_correct_answers.json; sourceTree = "<group>"; };
+		EE0F09B22C8BB90600C50BCB /* hsk_2_correct_answers.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = hsk_2_correct_answers.json; sourceTree = "<group>"; };
+		EE0F09B42C8BBA7500C50BCB /* hsk_3_correct_answers.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = hsk_3_correct_answers.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +77,12 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EE0F09992C8AF3D100C50BCB /* FirebaseMessaging in Frameworks */,
+				EE0F09952C8AF3D100C50BCB /* FirebaseAppCheck in Frameworks */,
+				EE0F09972C8AF3D100C50BCB /* FirebaseAuth in Frameworks */,
+				EE0F099E2C8AF5EE00C50BCB /* SnapKit in Frameworks */,
+				EE0F099B2C8AF3D100C50BCB /* FirebaseStorage in Frameworks */,
+				EE0F09932C8AF3D100C50BCB /* FirebaseAnalytics in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -76,9 +108,10 @@
 		EE0F09512C88C8BB00C50BCB /* HSK Online Test */ = {
 			isa = PBXGroup;
 			children = (
-				EE0F09892C8A1E3B00C50BCB /* HSK */,
-				EE0F097E2C8A027C00C50BCB /* Views */,
+				EE0F09AF2C8BAED100C50BCB /* Preload */,
+				EE0F09A12C8B606700C50BCB /* Helpers */,
 				EE0F09522C88C8BB00C50BCB /* AppDelegate.swift */,
+				EE0F097E2C8A027C00C50BCB /* Views */,
 				EE0F096B2C89B95C00C50BCB /* Structs+Enums */,
 				EE0F096A2C89B94800C50BCB /* Controllers */,
 				EE0F09732C89E78600C50BCB /* Resources */,
@@ -90,9 +123,11 @@
 			isa = PBXGroup;
 			children = (
 				EE0F09562C88C8BB00C50BCB /* MainViewController.swift */,
+				EE0F09A42C8B611100C50BCB /* LevelViewController.swift */,
 				EE0F09662C88C93700C50BCB /* TestViewController.swift */,
 				EE0F09712C89DF8200C50BCB /* LevelDetailViewController.swift */,
 				EE0F097C2C8A026500C50BCB /* QuestionViewController.swift */,
+				EE0F09AA2C8B96CB00C50BCB /* TestResultViewController.swift */,
 			);
 			path = Controllers;
 			sourceTree = "<group>";
@@ -103,6 +138,7 @@
 				EE0F096D2C89BE7700C50BCB /* HSKTests.swift */,
 				EE0F096F2C89BF1E00C50BCB /* HSKLevel.swift */,
 				EE0F097A2C8A023C00C50BCB /* Answer.swift */,
+				EE0F099F2C8B507200C50BCB /* TestAnswer.swift */,
 			);
 			path = "Structs+Enums";
 			sourceTree = "<group>";
@@ -110,6 +146,7 @@
 		EE0F09732C89E78600C50BCB /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				EE0F098F2C8AF27200C50BCB /* GoogleService-Info.plist */,
 				EE0F095B2C88C8BC00C50BCB /* Assets.xcassets */,
 				EE0F095D2C88C8BC00C50BCB /* LaunchScreen.storyboard */,
 				EE0F09602C88C8BC00C50BCB /* Info.plist */,
@@ -125,8 +162,29 @@
 				EE0F09832C8A08B600C50BCB /* ThreeOptionsCell.swift */,
 				EE0F09852C8A09B700C50BCB /* TextInputCell.swift */,
 				EE0F09872C8A0FA500C50BCB /* FourOptionsCell.swift */,
+				EE0F09A62C8B6DF900C50BCB /* LevelTestCell.swift */,
+				EE0F09AC2C8B98E600C50BCB /* TestResultCell.swift */,
 			);
 			path = Views;
+			sourceTree = "<group>";
+		};
+		EE0F09A12C8B606700C50BCB /* Helpers */ = {
+			isa = PBXGroup;
+			children = (
+				EE0F09A22C8B608100C50BCB /* FileDownloadManager.swift */,
+				EE0F09A82C8B74AA00C50BCB /* TestDownloadManager.swift */,
+			);
+			path = Helpers;
+			sourceTree = "<group>";
+		};
+		EE0F09AF2C8BAED100C50BCB /* Preload */ = {
+			isa = PBXGroup;
+			children = (
+				EE0F09B02C8BAEE400C50BCB /* hsk_1_correct_answers.json */,
+				EE0F09B22C8BB90600C50BCB /* hsk_2_correct_answers.json */,
+				EE0F09B42C8BBA7500C50BCB /* hsk_3_correct_answers.json */,
+			);
+			path = Preload;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -145,6 +203,14 @@
 			dependencies = (
 			);
 			name = "HSK Online Test";
+			packageProductDependencies = (
+				EE0F09922C8AF3D100C50BCB /* FirebaseAnalytics */,
+				EE0F09942C8AF3D100C50BCB /* FirebaseAppCheck */,
+				EE0F09962C8AF3D100C50BCB /* FirebaseAuth */,
+				EE0F09982C8AF3D100C50BCB /* FirebaseMessaging */,
+				EE0F099A2C8AF3D100C50BCB /* FirebaseStorage */,
+				EE0F099D2C8AF5EE00C50BCB /* SnapKit */,
+			);
 			productName = "HSK Online Test";
 			productReference = EE0F094F2C88C8BB00C50BCB /* HSK Online Test.app */;
 			productType = "com.apple.product-type.application";
@@ -173,6 +239,10 @@
 				Base,
 			);
 			mainGroup = EE0F09462C88C8BB00C50BCB;
+			packageReferences = (
+				EE0F09912C8AF3D100C50BCB /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */,
+				EE0F099C2C8AF5EE00C50BCB /* XCRemoteSwiftPackageReference "SnapKit" */,
+			);
 			productRefGroup = EE0F09502C88C8BB00C50BCB /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -187,9 +257,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				EE0F098A2C8A1E3B00C50BCB /* HSK in Resources */,
+				EE0F09902C8AF27200C50BCB /* GoogleService-Info.plist in Resources */,
 				EE0F095C2C88C8BC00C50BCB /* Assets.xcassets in Resources */,
 				EE0F095F2C88C8BC00C50BCB /* Base in Resources */,
+				EE0F09B32C8BB90600C50BCB /* hsk_2_correct_answers.json in Resources */,
+				EE0F09B12C8BAEE400C50BCB /* hsk_1_correct_answers.json in Resources */,
+				EE0F09B52C8BBA7500C50BCB /* hsk_3_correct_answers.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -200,18 +273,25 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EE0F09A72C8B6DF900C50BCB /* LevelTestCell.swift in Sources */,
 				EE0F09572C88C8BB00C50BCB /* MainViewController.swift in Sources */,
 				EE0F09882C8A0FA500C50BCB /* FourOptionsCell.swift in Sources */,
 				EE0F09802C8A028800C50BCB /* SixOptionsCell.swift in Sources */,
 				EE0F09532C88C8BB00C50BCB /* AppDelegate.swift in Sources */,
 				EE0F09822C8A029A00C50BCB /* TrueFalseCell.swift in Sources */,
+				EE0F09A02C8B507200C50BCB /* TestAnswer.swift in Sources */,
+				EE0F09A92C8B74AA00C50BCB /* TestDownloadManager.swift in Sources */,
 				EE0F09702C89BF1E00C50BCB /* HSKLevel.swift in Sources */,
 				EE0F09842C8A08B600C50BCB /* ThreeOptionsCell.swift in Sources */,
+				EE0F09A32C8B608100C50BCB /* FileDownloadManager.swift in Sources */,
 				EE0F096E2C89BE7700C50BCB /* HSKTests.swift in Sources */,
+				EE0F09AB2C8B96CB00C50BCB /* TestResultViewController.swift in Sources */,
 				EE0F09722C89DF8200C50BCB /* LevelDetailViewController.swift in Sources */,
+				EE0F09A52C8B611100C50BCB /* LevelViewController.swift in Sources */,
 				EE0F097B2C8A023C00C50BCB /* Answer.swift in Sources */,
 				EE0F097D2C8A026500C50BCB /* QuestionViewController.swift in Sources */,
 				EE0F09672C88C93700C50BCB /* TestViewController.swift in Sources */,
+				EE0F09AD2C8B98E600C50BCB /* TestResultCell.swift in Sources */,
 				EE0F09862C8A09B700C50BCB /* TextInputCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -356,6 +436,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 7XMRTTPQ2L;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "HSK Online Test/Resources/Info.plist";
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.education";
@@ -363,13 +444,13 @@
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "indo.sorbon.hsk-online-test";
+				PRODUCT_BUNDLE_IDENTIFIER = "indo.sorbon.hsk-online-test-all";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -384,6 +465,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 7XMRTTPQ2L;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "HSK Online Test/Resources/Info.plist";
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.education";
@@ -391,13 +473,13 @@
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "indo.sorbon.hsk-online-test";
+				PRODUCT_BUNDLE_IDENTIFIER = "indo.sorbon.hsk-online-test-all";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -427,6 +509,58 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		EE0F09912C8AF3D100C50BCB /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/firebase/firebase-ios-sdk.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 11.1.0;
+			};
+		};
+		EE0F099C2C8AF5EE00C50BCB /* XCRemoteSwiftPackageReference "SnapKit" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/SnapKit/SnapKit";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 5.7.1;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		EE0F09922C8AF3D100C50BCB /* FirebaseAnalytics */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = EE0F09912C8AF3D100C50BCB /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseAnalytics;
+		};
+		EE0F09942C8AF3D100C50BCB /* FirebaseAppCheck */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = EE0F09912C8AF3D100C50BCB /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseAppCheck;
+		};
+		EE0F09962C8AF3D100C50BCB /* FirebaseAuth */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = EE0F09912C8AF3D100C50BCB /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseAuth;
+		};
+		EE0F09982C8AF3D100C50BCB /* FirebaseMessaging */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = EE0F09912C8AF3D100C50BCB /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseMessaging;
+		};
+		EE0F099A2C8AF3D100C50BCB /* FirebaseStorage */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = EE0F09912C8AF3D100C50BCB /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseStorage;
+		};
+		EE0F099D2C8AF5EE00C50BCB /* SnapKit */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = EE0F099C2C8AF5EE00C50BCB /* XCRemoteSwiftPackageReference "SnapKit" */;
+			productName = SnapKit;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = EE0F09472C88C8BB00C50BCB /* Project object */;
 }

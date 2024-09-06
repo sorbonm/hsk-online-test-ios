@@ -71,6 +71,23 @@ enum HSKLevel: String, CaseIterable {
         }
     }
     
+    var answerJSONFilename: String {
+        switch self {
+        case .level1:
+            return "hsk_1_correct_answers"
+        case .level2:
+            return "hsk_2_correct_answers"
+        case .level3:
+            return "hsk_3_correct_answers"
+        case .level4:
+            return "hsk_4_correct_answers"
+        case .level5:
+            return "hsk_5_correct_answers"
+        case .level6:
+            return "hsk_6_correct_answers"
+        }
+    }
+    
     var duration: Int {
         switch self {
         case .level1: return 40
@@ -79,6 +96,23 @@ enum HSKLevel: String, CaseIterable {
         case .level4: return 105
         case .level5: return 125
         case .level6: return 140
+        }
+    }
+    
+    var answerOption: [Answer] {
+        switch self {
+        case .level1:
+            return TestAnswer.level1
+        case .level2:
+            return TestAnswer.level2
+        case .level3:
+            return TestAnswer.level3
+        case .level4:
+            return TestAnswer.level4
+        case .level5:
+            return TestAnswer.level5
+        case .level6:
+            return TestAnswer.level6
         }
     }
     

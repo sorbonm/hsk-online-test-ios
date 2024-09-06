@@ -1,0 +1,4424 @@
+{
+    "H31330": [
+        {
+            "number": 1,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 2,
+            "correctAnswer": "multipleChoice",
+            "value": "F"
+        },
+        {
+            "number": 3,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 4,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 5,
+            "correctAnswer": "multipleChoice",
+            "value": "E"
+        },
+        {
+            "number": 6,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 7,
+            "correctAnswer": "multipleChoice",
+            "value": "D"
+        },
+        {
+            "number": 8,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 9,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 10,
+            "correctAnswer": "multipleChoice",
+            "value": "E"
+        },
+        {
+            "number": 11,
+            "correctAnswer": "trueFalse",
+            "value": true
+        },
+        {
+            "number": 12,
+            "correctAnswer": "trueFalse",
+            "value": true
+        },
+        {
+            "number": 13,
+            "correctAnswer": "trueFalse",
+            "value": false
+        },
+        {
+            "number": 14,
+            "correctAnswer": "trueFalse",
+            "value": true
+        },
+        {
+            "number": 15,
+            "correctAnswer": "trueFalse",
+            "value": true
+        },
+        {
+            "number": 16,
+            "correctAnswer": "trueFalse",
+            "value": false
+        },
+        {
+            "number": 17,
+            "correctAnswer": "trueFalse",
+            "value": true
+        },
+        {
+            "number": 18,
+            "correctAnswer": "trueFalse",
+            "value": false
+        },
+        {
+            "number": 19,
+            "correctAnswer": "trueFalse",
+            "value": false
+        },
+        {
+            "number": 20,
+            "correctAnswer": "trueFalse",
+            "value": false
+        },
+        {
+            "number": 21,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 22,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 23,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 24,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 25,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 26,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 27,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 28,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 29,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 30,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 31,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 32,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 33,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 34,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 35,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 36,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 37,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 38,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 39,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 40,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 41,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 42,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 43,
+            "correctAnswer": "multipleChoice",
+            "value": "D"
+        },
+        {
+            "number": 44,
+            "correctAnswer": "multipleChoice",
+            "value": "F"
+        },
+        {
+            "number": 45,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 46,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 47,
+            "correctAnswer": "multipleChoice",
+            "value": "D"
+        },
+        {
+            "number": 48,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 49,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 50,
+            "correctAnswer": "multipleChoice",
+            "value": "E"
+        },
+        {
+            "number": 51,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 52,
+            "correctAnswer": "multipleChoice",
+            "value": "D"
+        },
+        {
+            "number": 53,
+            "correctAnswer": "multipleChoice",
+            "value": "F"
+        },
+        {
+            "number": 54,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 55,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 56,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 57,
+            "correctAnswer": "multipleChoice",
+            "value": "E"
+        },
+        {
+            "number": 58,
+            "correctAnswer": "multipleChoice",
+            "value": "F"
+        },
+        {
+            "number": 59,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 60,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 61,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 62,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 63,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 64,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 65,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 66,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 67,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 68,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 69,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 70,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 71,
+            "correctAnswer": "textInput",
+            "value": "这次旅游花了一万元。"
+        },
+        {
+            "number": 72,
+            "correctAnswer": "textInput",
+            "value": "她丈夫在大学教中文。"
+        },
+        {
+            "number": 73,
+            "correctAnswer": "textInput",
+            "value": "妹妹害怕得哭了起来。"
+        },
+        {
+            "number": 74,
+            "correctAnswer": "textInput",
+            "value": "飞机马上就要起飞了。"
+        },
+        {
+            "number": 75,
+            "correctAnswer": "textInput",
+            "value": "今晚的月亮真大啊！"
+        },
+        {
+            "number": 76,
+            "correctAnswer": "textInput",
+            "value": "会"
+        },
+        {
+            "number": 77,
+            "correctAnswer": "textInput",
+            "value": "更"
+        },
+        {
+            "number": 78,
+            "correctAnswer": "textInput",
+            "value": "车"
+        },
+        {
+            "number": 79,
+            "correctAnswer": "textInput",
+            "value": "年"
+        },
+        {
+            "number": 80,
+            "correctAnswer": "textInput",
+            "value": "为"
+        }
+    ],
+    "H30000": [
+        {
+            "number": 1,
+            "correctAnswer": "multipleChoice",
+            "value": "F"
+        },
+        {
+            "number": 2,
+            "correctAnswer": "multipleChoice",
+            "value": "E"
+        },
+        {
+            "number": 3,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 4,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 5,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 6,
+            "correctAnswer": "multipleChoice",
+            "value": "E"
+        },
+        {
+            "number": 7,
+            "correctAnswer": "multipleChoice",
+            "value": "D"
+        },
+        {
+            "number": 8,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 9,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 10,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 11,
+            "correctAnswer": "trueFalse",
+            "value": false
+        },
+        {
+            "number": 12,
+            "correctAnswer": "trueFalse",
+            "value": true
+        },
+        {
+            "number": 13,
+            "correctAnswer": "trueFalse",
+            "value": false
+        },
+        {
+            "number": 14,
+            "correctAnswer": "trueFalse",
+            "value": false
+        },
+        {
+            "number": 15,
+            "correctAnswer": "trueFalse",
+            "value": false
+        },
+        {
+            "number": 16,
+            "correctAnswer": "trueFalse",
+            "value": true
+        },
+        {
+            "number": 17,
+            "correctAnswer": "trueFalse",
+            "value": true
+        },
+        {
+            "number": 18,
+            "correctAnswer": "trueFalse",
+            "value": false
+        },
+        {
+            "number": 19,
+            "correctAnswer": "trueFalse",
+            "value": true
+        },
+        {
+            "number": 20,
+            "correctAnswer": "trueFalse",
+            "value": true
+        },
+        {
+            "number": 21,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 22,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 23,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 24,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 25,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 26,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 27,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 28,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 29,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 30,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 31,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 32,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 33,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 34,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 35,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 36,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 37,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 38,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 39,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 40,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 41,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 42,
+            "correctAnswer": "multipleChoice",
+            "value": "D"
+        },
+        {
+            "number": 43,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 44,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 45,
+            "correctAnswer": "multipleChoice",
+            "value": "F"
+        },
+        {
+            "number": 46,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 47,
+            "correctAnswer": "multipleChoice",
+            "value": "E"
+        },
+        {
+            "number": 48,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 49,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 50,
+            "correctAnswer": "multipleChoice",
+            "value": "D"
+        },
+        {
+            "number": 51,
+            "correctAnswer": "multipleChoice",
+            "value": "D"
+        },
+        {
+            "number": 52,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 53,
+            "correctAnswer": "multipleChoice",
+            "value": "F"
+        },
+        {
+            "number": 54,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 55,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 56,
+            "correctAnswer": "multipleChoice",
+            "value": "E"
+        },
+        {
+            "number": 57,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 58,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 59,
+            "correctAnswer": "multipleChoice",
+            "value": "F"
+        },
+        {
+            "number": 60,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 61,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 62,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 63,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 64,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 65,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 66,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 67,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 68,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 69,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 70,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 71,
+            "correctAnswer": "textInput",
+            "value": "我最爱吃西瓜。"
+        },
+        {
+            "number": 72,
+            "correctAnswer": "textInput",
+            "value": "他终于同意了。/ 终于他同意了。"
+        },
+        {
+            "number": 73,
+            "correctAnswer": "textInput",
+            "value": "他们在复习哪一课？"
+        },
+        {
+            "number": 74,
+            "correctAnswer": "textInput",
+            "value": "这个菜单是用汉语写的。"
+        },
+        {
+            "number": 75,
+            "correctAnswer": "textInput",
+            "value": "这次会议在2010年冬天举行。/ 在2010年冬天举行这次会议。"
+        },
+        {
+            "number": 76,
+            "correctAnswer": "textInput",
+            "value": "太"
+        },
+        {
+            "number": 77,
+            "correctAnswer": "textInput",
+            "value": "名"
+        },
+        {
+            "number": 78,
+            "correctAnswer": "textInput",
+            "value": "米"
+        },
+        {
+            "number": 79,
+            "correctAnswer": "textInput",
+            "value": "回"
+        },
+        {
+            "number": 80,
+            "correctAnswer": "textInput",
+            "value": "牛"
+        }
+    ],
+    "H31001": [
+        {
+            "number": 1,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 2,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 3,
+            "correctAnswer": "multipleChoice",
+            "value": "E"
+        },
+        {
+            "number": 4,
+            "correctAnswer": "multipleChoice",
+            "value": "F"
+        },
+        {
+            "number": 5,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 6,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 7,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 8,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 9,
+            "correctAnswer": "multipleChoice",
+            "value": "D"
+        },
+        {
+            "number": 10,
+            "correctAnswer": "multipleChoice",
+            "value": "E"
+        },
+        {
+            "number": 11,
+            "correctAnswer": "trueFalse",
+            "value": false
+        },
+        {
+            "number": 12,
+            "correctAnswer": "trueFalse",
+            "value": true
+        },
+        {
+            "number": 13,
+            "correctAnswer": "trueFalse",
+            "value": false
+        },
+        {
+            "number": 14,
+            "correctAnswer": "trueFalse",
+            "value": true
+        },
+        {
+            "number": 15,
+            "correctAnswer": "trueFalse",
+            "value": true
+        },
+        {
+            "number": 16,
+            "correctAnswer": "trueFalse",
+            "value": false
+        },
+        {
+            "number": 17,
+            "correctAnswer": "trueFalse",
+            "value": true
+        },
+        {
+            "number": 18,
+            "correctAnswer": "trueFalse",
+            "value": true
+        },
+        {
+            "number": 19,
+            "correctAnswer": "trueFalse",
+            "value": false
+        },
+        {
+            "number": 20,
+            "correctAnswer": "trueFalse",
+            "value": false
+        },
+        {
+            "number": 21,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 22,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 23,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 24,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 25,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 26,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 27,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 28,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 29,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 30,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 31,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 32,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 33,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 34,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 35,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 36,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 37,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 38,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 39,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 40,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 41,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 42,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 43,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 44,
+            "correctAnswer": "multipleChoice",
+            "value": "D"
+        },
+        {
+            "number": 45,
+            "correctAnswer": "multipleChoice",
+            "value": "F"
+        },
+        {
+            "number": 46,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 47,
+            "correctAnswer": "multipleChoice",
+            "value": "D"
+        },
+        {
+            "number": 48,
+            "correctAnswer": "multipleChoice",
+            "value": "E"
+        },
+        {
+            "number": 49,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 50,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 51,
+            "correctAnswer": "multipleChoice",
+            "value": "F"
+        },
+        {
+            "number": 52,
+            "correctAnswer": "multipleChoice",
+            "value": "D"
+        },
+        {
+            "number": 53,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 54,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 55,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 56,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 57,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 58,
+            "correctAnswer": "multipleChoice",
+            "value": "E"
+        },
+        {
+            "number": 59,
+            "correctAnswer": "multipleChoice",
+            "value": "F"
+        },
+        {
+            "number": 60,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 61,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 62,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 63,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 64,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 65,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 66,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 67,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 68,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 69,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 70,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 71,
+            "correctAnswer": "textInput",
+            "value": "弟弟高兴地笑了。"
+        },
+        {
+            "number": 72,
+            "correctAnswer": "textInput",
+            "value": "上午的考试比较简单。"
+        },
+        {
+            "number": 73,
+            "correctAnswer": "textInput",
+            "value": "这个城市的环境变得越来越好了。"
+        },
+        {
+            "number": 74,
+            "correctAnswer": "textInput",
+            "value": "那位医生送给他一个礼物。"
+        },
+        {
+            "number": 75,
+            "correctAnswer": "textInput",
+            "value": "其他班的成绩也有很大提高。"
+        },
+        {
+            "number": 76,
+            "correctAnswer": "textInput",
+            "value": "出"
+        },
+        {
+            "number": 77,
+            "correctAnswer": "textInput",
+            "value": "元"
+        },
+        {
+            "number": 78,
+            "correctAnswer": "textInput",
+            "value": "叫"
+        },
+        {
+            "number": 79,
+            "correctAnswer": "textInput",
+            "value": "中"
+        },
+        {
+            "number": 80,
+            "correctAnswer": "textInput",
+            "value": "米"
+        }
+    ],
+    "H31332": [
+        {
+            "number": 1,
+            "correctAnswer": "multipleChoice",
+            "value": "F"
+        },
+        {
+            "number": 2,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 3,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 4,
+            "correctAnswer": "multipleChoice",
+            "value": "E"
+        },
+        {
+            "number": 5,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 6,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 7,
+            "correctAnswer": "multipleChoice",
+            "value": "E"
+        },
+        {
+            "number": 8,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 9,
+            "correctAnswer": "multipleChoice",
+            "value": "D"
+        },
+        {
+            "number": 10,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 11,
+            "correctAnswer": "trueFalse",
+            "value": true
+        },
+        {
+            "number": 12,
+            "correctAnswer": "trueFalse",
+            "value": true
+        },
+        {
+            "number": 13,
+            "correctAnswer": "trueFalse",
+            "value": false
+        },
+        {
+            "number": 14,
+            "correctAnswer": "trueFalse",
+            "value": true
+        },
+        {
+            "number": 15,
+            "correctAnswer": "trueFalse",
+            "value": false
+        },
+        {
+            "number": 16,
+            "correctAnswer": "trueFalse",
+            "value": false
+        },
+        {
+            "number": 17,
+            "correctAnswer": "trueFalse",
+            "value": false
+        },
+        {
+            "number": 18,
+            "correctAnswer": "trueFalse",
+            "value": true
+        },
+        {
+            "number": 19,
+            "correctAnswer": "trueFalse",
+            "value": false
+        },
+        {
+            "number": 20,
+            "correctAnswer": "trueFalse",
+            "value": true
+        },
+        {
+            "number": 21,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 22,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 23,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 24,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 25,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 26,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 27,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 28,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 29,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 30,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 31,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 32,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 33,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 34,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 35,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 36,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 37,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 38,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 39,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 40,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 41,
+            "correctAnswer": "multipleChoice",
+            "value": "D"
+        },
+        {
+            "number": 42,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 43,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 44,
+            "correctAnswer": "multipleChoice",
+            "value": "F"
+        },
+        {
+            "number": 45,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 46,
+            "correctAnswer": "multipleChoice",
+            "value": "E"
+        },
+        {
+            "number": 47,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 48,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 49,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 50,
+            "correctAnswer": "multipleChoice",
+            "value": "D"
+        },
+        {
+            "number": 51,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 52,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 53,
+            "correctAnswer": "multipleChoice",
+            "value": "F"
+        },
+        {
+            "number": 54,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 55,
+            "correctAnswer": "multipleChoice",
+            "value": "D"
+        },
+        {
+            "number": 56,
+            "correctAnswer": "multipleChoice",
+            "value": "F"
+        },
+        {
+            "number": 57,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 58,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 59,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 60,
+            "correctAnswer": "multipleChoice",
+            "value": "E"
+        },
+        {
+            "number": 61,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 62,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 63,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 64,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 65,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 66,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 67,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 68,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 69,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 70,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 71,
+            "correctAnswer": "textInput",
+            "value": "弟弟害怕极了。"
+        },
+        {
+            "number": 72,
+            "correctAnswer": "textInput",
+            "value": "这只大熊猫很可爱。"
+        },
+        {
+            "number": 73,
+            "correctAnswer": "textInput",
+            "value": "历史是不应该被忘记的。"
+        },
+        {
+            "number": 74,
+            "correctAnswer": "textInput",
+            "value": "我比去年瘦了 10公斤。"
+        },
+        {
+            "number": 75,
+            "correctAnswer": "textInput",
+            "value": "她最后决定把房子卖了。"
+        },
+        {
+            "number": 76,
+            "correctAnswer": "textInput",
+            "value": "太"
+        },
+        {
+            "number": 77,
+            "correctAnswer": "textInput",
+            "value": "您"
+        },
+        {
+            "number": 78,
+            "correctAnswer": "textInput",
+            "value": "里"
+        },
+        {
+            "number": 79,
+            "correctAnswer": "textInput",
+            "value": "听"
+        },
+        {
+            "number": 80,
+            "correctAnswer": "textInput",
+            "value": "节"
+        }
+    ],
+    "H31327": [
+        {
+            "number": 1,
+            "correctAnswer": "multipleChoice",
+            "value": "F"
+        },
+        {
+            "number": 2,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 3,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 4,
+            "correctAnswer": "multipleChoice",
+            "value": "E"
+        },
+        {
+            "number": 5,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 6,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 7,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 8,
+            "correctAnswer": "multipleChoice",
+            "value": "D"
+        },
+        {
+            "number": 9,
+            "correctAnswer": "multipleChoice",
+            "value": "E"
+        },
+        {
+            "number": 10,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 11,
+            "correctAnswer": "trueFalse",
+            "value": false
+        },
+        {
+            "number": 12,
+            "correctAnswer": "trueFalse",
+            "value": true
+        },
+        {
+            "number": 13,
+            "correctAnswer": "trueFalse",
+            "value": false
+        },
+        {
+            "number": 14,
+            "correctAnswer": "trueFalse",
+            "value": false
+        },
+        {
+            "number": 15,
+            "correctAnswer": "trueFalse",
+            "value": true
+        },
+        {
+            "number": 16,
+            "correctAnswer": "trueFalse",
+            "value": true
+        },
+        {
+            "number": 17,
+            "correctAnswer": "trueFalse",
+            "value": false
+        },
+        {
+            "number": 18,
+            "correctAnswer": "trueFalse",
+            "value": true
+        },
+        {
+            "number": 19,
+            "correctAnswer": "trueFalse",
+            "value": false
+        },
+        {
+            "number": 20,
+            "correctAnswer": "trueFalse",
+            "value": true
+        },
+        {
+            "number": 21,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 22,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 23,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 24,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 25,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 26,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 27,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 28,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 29,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 30,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 31,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 32,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 33,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 34,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 35,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 36,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 37,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 38,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 39,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 40,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 41,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 42,
+            "correctAnswer": "multipleChoice",
+            "value": "D"
+        },
+        {
+            "number": 43,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 44,
+            "correctAnswer": "multipleChoice",
+            "value": "F"
+        },
+        {
+            "number": 45,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 46,
+            "correctAnswer": "multipleChoice",
+            "value": "E"
+        },
+        {
+            "number": 47,
+            "correctAnswer": "multipleChoice",
+            "value": "D"
+        },
+        {
+            "number": 48,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 49,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 50,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 51,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 52,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 53,
+            "correctAnswer": "multipleChoice",
+            "value": "D"
+        },
+        {
+            "number": 54,
+            "correctAnswer": "multipleChoice",
+            "value": "F"
+        },
+        {
+            "number": 55,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 56,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 57,
+            "correctAnswer": "multipleChoice",
+            "value": "F"
+        },
+        {
+            "number": 58,
+            "correctAnswer": "multipleChoice",
+            "value": "E"
+        },
+        {
+            "number": 59,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 60,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 61,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 62,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 63,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 64,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 65,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 66,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 67,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 68,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 69,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 70,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 71,
+            "correctAnswer": "textInput",
+            "value": "蛋糕被我吃了。"
+        },
+        {
+            "number": 72,
+            "correctAnswer": "textInput",
+            "value": "猫是一种爱干净的动物。"
+        },
+        {
+            "number": 73,
+            "correctAnswer": "textInput",
+            "value": "那个体育馆能坐两万人。"
+        },
+        {
+            "number": 74,
+            "correctAnswer": "textInput",
+            "value": "街道两边的树长得真高。"
+        },
+        {
+            "number": 75,
+            "correctAnswer": "textInput",
+            "value": "请用黑板上的词写一个句子。"
+        },
+        {
+            "number": 76,
+            "correctAnswer": "textInput",
+            "value": "文"
+        },
+        {
+            "number": 77,
+            "correctAnswer": "textInput",
+            "value": "公"
+        },
+        {
+            "number": 78,
+            "correctAnswer": "textInput",
+            "value": "到"
+        },
+        {
+            "number": 79,
+            "correctAnswer": "textInput",
+            "value": "学"
+        },
+        {
+            "number": 80,
+            "correctAnswer": "textInput",
+            "value": "和"
+        }
+    ],
+    "H31329": [
+        {
+            "number": 1,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 2,
+            "correctAnswer": "multipleChoice",
+            "value": "F"
+        },
+        {
+            "number": 3,
+            "correctAnswer": "multipleChoice",
+            "value": "E"
+        },
+        {
+            "number": 4,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 5,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 6,
+            "correctAnswer": "multipleChoice",
+            "value": "E"
+        },
+        {
+            "number": 7,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 8,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 9,
+            "correctAnswer": "multipleChoice",
+            "value": "D"
+        },
+        {
+            "number": 10,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 11,
+            "correctAnswer": "trueFalse",
+            "value": true
+        },
+        {
+            "number": 12,
+            "correctAnswer": "trueFalse",
+            "value": false
+        },
+        {
+            "number": 13,
+            "correctAnswer": "trueFalse",
+            "value": true
+        },
+        {
+            "number": 14,
+            "correctAnswer": "trueFalse",
+            "value": true
+        },
+        {
+            "number": 15,
+            "correctAnswer": "trueFalse",
+            "value": false
+        },
+        {
+            "number": 16,
+            "correctAnswer": "trueFalse",
+            "value": true
+        },
+        {
+            "number": 17,
+            "correctAnswer": "trueFalse",
+            "value": false
+        },
+        {
+            "number": 18,
+            "correctAnswer": "trueFalse",
+            "value": true
+        },
+        {
+            "number": 19,
+            "correctAnswer": "trueFalse",
+            "value": false
+        },
+        {
+            "number": 20,
+            "correctAnswer": "trueFalse",
+            "value": false
+        },
+        {
+            "number": 21,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 22,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 23,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 24,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 25,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 26,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 27,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 28,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 29,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 30,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 31,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 32,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 33,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 34,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 35,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 36,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 37,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 38,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 39,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 40,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 41,
+            "correctAnswer": "multipleChoice",
+            "value": "F"
+        },
+        {
+            "number": 42,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 43,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 44,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 45,
+            "correctAnswer": "multipleChoice",
+            "value": "D"
+        },
+        {
+            "number": 46,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 47,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 48,
+            "correctAnswer": "multipleChoice",
+            "value": "D"
+        },
+        {
+            "number": 49,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 50,
+            "correctAnswer": "multipleChoice",
+            "value": "E"
+        },
+        {
+            "number": 51,
+            "correctAnswer": "multipleChoice",
+            "value": "F"
+        },
+        {
+            "number": 52,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 53,
+            "correctAnswer": "multipleChoice",
+            "value": "D"
+        },
+        {
+            "number": 54,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 55,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 56,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 57,
+            "correctAnswer": "multipleChoice",
+            "value": "F"
+        },
+        {
+            "number": 58,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 59,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 60,
+            "correctAnswer": "multipleChoice",
+            "value": "E"
+        },
+        {
+            "number": 61,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 62,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 63,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 64,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 65,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 66,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 67,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 68,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 69,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 70,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 71,
+            "correctAnswer": "textInput",
+            "value": "他学习特别努力。"
+        },
+        {
+            "number": 72,
+            "correctAnswer": "textInput",
+            "value": "你想吃哪种面包？"
+        },
+        {
+            "number": 73,
+            "correctAnswer": "textInput",
+            "value": "你的脸还没洗干净。"
+        },
+        {
+            "number": 74,
+            "correctAnswer": "textInput",
+            "value": "他的成绩一直是我们班最好的。"
+        },
+        {
+            "number": 75,
+            "correctAnswer": "textInput",
+            "value": "那位老人已经 107岁了。"
+        },
+        {
+            "number": 76,
+            "correctAnswer": "textInput",
+            "value": "节"
+        },
+        {
+            "number": 77,
+            "correctAnswer": "textInput",
+            "value": "月"
+        },
+        {
+            "number": 78,
+            "correctAnswer": "textInput",
+            "value": "找"
+        },
+        {
+            "number": 79,
+            "correctAnswer": "textInput",
+            "value": "只"
+        },
+        {
+            "number": 80,
+            "correctAnswer": "textInput",
+            "value": "自"
+        }
+    ],
+    "H31328": [
+        {
+            "number": 1,
+            "correctAnswer": "multipleChoice",
+            "value": "E"
+        },
+        {
+            "number": 2,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 3,
+            "correctAnswer": "multipleChoice",
+            "value": "F"
+        },
+        {
+            "number": 4,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 5,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 6,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 7,
+            "correctAnswer": "multipleChoice",
+            "value": "D"
+        },
+        {
+            "number": 8,
+            "correctAnswer": "multipleChoice",
+            "value": "E"
+        },
+        {
+            "number": 9,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 10,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 11,
+            "correctAnswer": "trueFalse",
+            "value": true
+        },
+        {
+            "number": 12,
+            "correctAnswer": "trueFalse",
+            "value": true
+        },
+        {
+            "number": 13,
+            "correctAnswer": "trueFalse",
+            "value": false
+        },
+        {
+            "number": 14,
+            "correctAnswer": "trueFalse",
+            "value": false
+        },
+        {
+            "number": 15,
+            "correctAnswer": "trueFalse",
+            "value": true
+        },
+        {
+            "number": 16,
+            "correctAnswer": "trueFalse",
+            "value": false
+        },
+        {
+            "number": 17,
+            "correctAnswer": "trueFalse",
+            "value": false
+        },
+        {
+            "number": 18,
+            "correctAnswer": "trueFalse",
+            "value": false
+        },
+        {
+            "number": 19,
+            "correctAnswer": "trueFalse",
+            "value": true
+        },
+        {
+            "number": 20,
+            "correctAnswer": "trueFalse",
+            "value": true
+        },
+        {
+            "number": 21,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 22,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 23,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 24,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 25,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 26,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 27,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 28,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 29,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 30,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 31,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 32,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 33,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 34,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 35,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 36,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 37,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 38,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 39,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 40,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 41,
+            "correctAnswer": "multipleChoice",
+            "value": "D"
+        },
+        {
+            "number": 42,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 43,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 44,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 45,
+            "correctAnswer": "multipleChoice",
+            "value": "F"
+        },
+        {
+            "number": 46,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 47,
+            "correctAnswer": "multipleChoice",
+            "value": "D"
+        },
+        {
+            "number": 48,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 49,
+            "correctAnswer": "multipleChoice",
+            "value": "E"
+        },
+        {
+            "number": 50,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 51,
+            "correctAnswer": "multipleChoice",
+            "value": "D"
+        },
+        {
+            "number": 52,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 53,
+            "correctAnswer": "multipleChoice",
+            "value": "F"
+        },
+        {
+            "number": 54,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 55,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 56,
+            "correctAnswer": "multipleChoice",
+            "value": "F"
+        },
+        {
+            "number": 57,
+            "correctAnswer": "multipleChoice",
+            "value": "E"
+        },
+        {
+            "number": 58,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 59,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 60,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 61,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 62,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 63,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 64,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 65,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 66,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 67,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 68,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 69,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 70,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 71,
+            "correctAnswer": "textInput",
+            "value": "她的头发又黑又长。"
+        },
+        {
+            "number": 72,
+            "correctAnswer": "textInput",
+            "value": "我终于学会用筷子了。"
+        },
+        {
+            "number": 73,
+            "correctAnswer": "textInput",
+            "value": "他把教室打扫得干干净净。"
+        },
+        {
+            "number": 74,
+            "correctAnswer": "textInput",
+            "value": "我不喜欢看体育新闻。"
+        },
+        {
+            "number": 75,
+            "correctAnswer": "textInput",
+            "value": "校长对你的回答非常满意。"
+        },
+        {
+            "number": 76,
+            "correctAnswer": "textInput",
+            "value": "中"
+        },
+        {
+            "number": 77,
+            "correctAnswer": "textInput",
+            "value": "来"
+        },
+        {
+            "number": 78,
+            "correctAnswer": "textInput",
+            "value": "电"
+        },
+        {
+            "number": 79,
+            "correctAnswer": "textInput",
+            "value": "好"
+        },
+        {
+            "number": 80,
+            "correctAnswer": "textInput",
+            "value": "知"
+        }
+    ],
+    "H31003": [
+        {
+            "number": 1,
+            "correctAnswer": "multipleChoice",
+            "value": "E"
+        },
+        {
+            "number": 2,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 3,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 4,
+            "correctAnswer": "multipleChoice",
+            "value": "F"
+        },
+        {
+            "number": 5,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 6,
+            "correctAnswer": "multipleChoice",
+            "value": "E"
+        },
+        {
+            "number": 7,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 8,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 9,
+            "correctAnswer": "multipleChoice",
+            "value": "D"
+        },
+        {
+            "number": 10,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 11,
+            "correctAnswer": "trueFalse",
+            "value": false
+        },
+        {
+            "number": 12,
+            "correctAnswer": "trueFalse",
+            "value": true
+        },
+        {
+            "number": 13,
+            "correctAnswer": "trueFalse",
+            "value": false
+        },
+        {
+            "number": 14,
+            "correctAnswer": "trueFalse",
+            "value": true
+        },
+        {
+            "number": 15,
+            "correctAnswer": "trueFalse",
+            "value": true
+        },
+        {
+            "number": 16,
+            "correctAnswer": "trueFalse",
+            "value": false
+        },
+        {
+            "number": 17,
+            "correctAnswer": "trueFalse",
+            "value": true
+        },
+        {
+            "number": 18,
+            "correctAnswer": "trueFalse",
+            "value": false
+        },
+        {
+            "number": 19,
+            "correctAnswer": "trueFalse",
+            "value": true
+        },
+        {
+            "number": 20,
+            "correctAnswer": "trueFalse",
+            "value": false
+        },
+        {
+            "number": 21,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 22,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 23,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 24,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 25,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 26,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 27,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 28,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 29,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 30,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 31,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 32,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 33,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 34,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 35,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 36,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 37,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 38,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 39,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 40,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 41,
+            "correctAnswer": "multipleChoice",
+            "value": "D"
+        },
+        {
+            "number": 42,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 43,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 44,
+            "correctAnswer": "multipleChoice",
+            "value": "F"
+        },
+        {
+            "number": 45,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 46,
+            "correctAnswer": "multipleChoice",
+            "value": "E"
+        },
+        {
+            "number": 47,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 48,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 49,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 50,
+            "correctAnswer": "multipleChoice",
+            "value": "D"
+        },
+        {
+            "number": 51,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 52,
+            "correctAnswer": "multipleChoice",
+            "value": "F"
+        },
+        {
+            "number": 53,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 54,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 55,
+            "correctAnswer": "multipleChoice",
+            "value": "D"
+        },
+        {
+            "number": 56,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 57,
+            "correctAnswer": "multipleChoice",
+            "value": "E"
+        },
+        {
+            "number": 58,
+            "correctAnswer": "multipleChoice",
+            "value": "F"
+        },
+        {
+            "number": 59,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 60,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 61,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 62,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 63,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 64,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 65,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 66,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 67,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 68,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 69,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 70,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 71,
+            "correctAnswer": "textInput",
+            "value": "她决定把手机送给弟弟。"
+        },
+        {
+            "number": 72,
+            "correctAnswer": "textInput",
+            "value": "我和这个学生很久没见面了。"
+        },
+        {
+            "number": 73,
+            "correctAnswer": "textInput",
+            "value": "这个城市的春天经常刮风。"
+        },
+        {
+            "number": 74,
+            "correctAnswer": "textInput",
+            "value": "他的汉字写得很漂亮。"
+        },
+        {
+            "number": 75,
+            "correctAnswer": "textInput",
+            "value": "叔叔的太阳镜花了 900 块钱。"
+        },
+        {
+            "number": 76,
+            "correctAnswer": "textInput",
+            "value": "月"
+        },
+        {
+            "number": 77,
+            "correctAnswer": "textInput",
+            "value": "白"
+        },
+        {
+            "number": 78,
+            "correctAnswer": "textInput",
+            "value": "千"
+        },
+        {
+            "number": 79,
+            "correctAnswer": "textInput",
+            "value": "心"
+        },
+        {
+            "number": 80,
+            "correctAnswer": "textInput",
+            "value": "因"
+        }
+    ],
+    "H31004": [
+        {
+            "number": 1,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 2,
+            "correctAnswer": "multipleChoice",
+            "value": "E"
+        },
+        {
+            "number": 3,
+            "correctAnswer": "multipleChoice",
+            "value": "F"
+        },
+        {
+            "number": 4,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 5,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 6,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 7,
+            "correctAnswer": "multipleChoice",
+            "value": "E"
+        },
+        {
+            "number": 8,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 9,
+            "correctAnswer": "multipleChoice",
+            "value": "D"
+        },
+        {
+            "number": 10,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 11,
+            "correctAnswer": "trueFalse",
+            "value": true
+        },
+        {
+            "number": 12,
+            "correctAnswer": "trueFalse",
+            "value": false
+        },
+        {
+            "number": 13,
+            "correctAnswer": "trueFalse",
+            "value": false
+        },
+        {
+            "number": 14,
+            "correctAnswer": "trueFalse",
+            "value": false
+        },
+        {
+            "number": 15,
+            "correctAnswer": "trueFalse",
+            "value": true
+        },
+        {
+            "number": 16,
+            "correctAnswer": "trueFalse",
+            "value": true
+        },
+        {
+            "number": 17,
+            "correctAnswer": "trueFalse",
+            "value": false
+        },
+        {
+            "number": 18,
+            "correctAnswer": "trueFalse",
+            "value": false
+        },
+        {
+            "number": 19,
+            "correctAnswer": "trueFalse",
+            "value": true
+        },
+        {
+            "number": 20,
+            "correctAnswer": "trueFalse",
+            "value": true
+        },
+        {
+            "number": 21,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 22,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 23,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 24,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 25,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 26,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 27,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 28,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 29,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 30,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 31,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 32,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 33,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 34,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 35,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 36,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 37,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 38,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 39,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 40,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 41,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 42,
+            "correctAnswer": "multipleChoice",
+            "value": "D"
+        },
+        {
+            "number": 43,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 44,
+            "correctAnswer": "multipleChoice",
+            "value": "F"
+        },
+        {
+            "number": 45,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 46,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 47,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 48,
+            "correctAnswer": "multipleChoice",
+            "value": "D"
+        },
+        {
+            "number": 49,
+            "correctAnswer": "multipleChoice",
+            "value": "E"
+        },
+        {
+            "number": 50,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 51,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 52,
+            "correctAnswer": "multipleChoice",
+            "value": "F"
+        },
+        {
+            "number": 53,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 54,
+            "correctAnswer": "multipleChoice",
+            "value": "D"
+        },
+        {
+            "number": 55,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 56,
+            "correctAnswer": "multipleChoice",
+            "value": "F"
+        },
+        {
+            "number": 57,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 58,
+            "correctAnswer": "multipleChoice",
+            "value": "E"
+        },
+        {
+            "number": 59,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 60,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 61,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 62,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 63,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 64,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 65,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 66,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 67,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 68,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 69,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 70,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 71,
+            "correctAnswer": "textInput",
+            "value": "药在我的包里。"
+        },
+        {
+            "number": 72,
+            "correctAnswer": "textInput",
+            "value": "他要去机场接女朋友。"
+        },
+        {
+            "number": 73,
+            "correctAnswer": "textInput",
+            "value": "你脚下的路还很长。"
+        },
+        {
+            "number": 74,
+            "correctAnswer": "textInput",
+            "value": "她不喜欢用铅笔写字。"
+        },
+        {
+            "number": 75,
+            "correctAnswer": "textInput",
+            "value": "你丈夫的鼻子怎么了？/ 你的丈夫鼻子怎么了？"
+        },
+        {
+            "number": 76,
+            "correctAnswer": "textInput",
+            "value": "手"
+        },
+        {
+            "number": 77,
+            "correctAnswer": "textInput",
+            "value": "是"
+        },
+        {
+            "number": 78,
+            "correctAnswer": "textInput",
+            "value": "家"
+        },
+        {
+            "number": 79,
+            "correctAnswer": "textInput",
+            "value": "会"
+        },
+        {
+            "number": 80,
+            "correctAnswer": "textInput",
+            "value": "花"
+        }
+    ],
+    "H31005": [
+        {
+            "number": 1,
+            "correctAnswer": "multipleChoice",
+            "value": "F"
+        },
+        {
+            "number": 2,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 3,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 4,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 5,
+            "correctAnswer": "multipleChoice",
+            "value": "E"
+        },
+        {
+            "number": 6,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 7,
+            "correctAnswer": "multipleChoice",
+            "value": "D"
+        },
+        {
+            "number": 8,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 9,
+            "correctAnswer": "multipleChoice",
+            "value": "E"
+        },
+        {
+            "number": 10,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 11,
+            "correctAnswer": "trueFalse",
+            "value": true
+        },
+        {
+            "number": 12,
+            "correctAnswer": "trueFalse",
+            "value": true
+        },
+        {
+            "number": 13,
+            "correctAnswer": "trueFalse",
+            "value": false
+        },
+        {
+            "number": 14,
+            "correctAnswer": "trueFalse",
+            "value": false
+        },
+        {
+            "number": 15,
+            "correctAnswer": "trueFalse",
+            "value": false
+        },
+        {
+            "number": 16,
+            "correctAnswer": "trueFalse",
+            "value": false
+        },
+        {
+            "number": 17,
+            "correctAnswer": "trueFalse",
+            "value": true
+        },
+        {
+            "number": 18,
+            "correctAnswer": "trueFalse",
+            "value": true
+        },
+        {
+            "number": 19,
+            "correctAnswer": "trueFalse",
+            "value": false
+        },
+        {
+            "number": 20,
+            "correctAnswer": "trueFalse",
+            "value": true
+        },
+        {
+            "number": 21,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 22,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 23,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 24,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 25,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 26,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 27,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 28,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 29,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 30,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 31,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 32,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 33,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 34,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 35,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 36,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 37,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 38,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 39,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 40,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 41,
+            "correctAnswer": "multipleChoice",
+            "value": "F"
+        },
+        {
+            "number": 42,
+            "correctAnswer": "multipleChoice",
+            "value": "D"
+        },
+        {
+            "number": 43,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 44,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 45,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 46,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 47,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 48,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 49,
+            "correctAnswer": "multipleChoice",
+            "value": "D"
+        },
+        {
+            "number": 50,
+            "correctAnswer": "multipleChoice",
+            "value": "E"
+        },
+        {
+            "number": 51,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 52,
+            "correctAnswer": "multipleChoice",
+            "value": "F"
+        },
+        {
+            "number": 53,
+            "correctAnswer": "multipleChoice",
+            "value": "D"
+        },
+        {
+            "number": 54,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 55,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 56,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 57,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 58,
+            "correctAnswer": "multipleChoice",
+            "value": "E"
+        },
+        {
+            "number": 59,
+            "correctAnswer": "multipleChoice",
+            "value": "F"
+        },
+        {
+            "number": 60,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 61,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 62,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 63,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 64,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 65,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 66,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 67,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 68,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 69,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 70,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 71,
+            "correctAnswer": "textInput",
+            "value": "李小姐的头发是黑色的。"
+        },
+        {
+            "number": 72,
+            "correctAnswer": "textInput",
+            "value": "会议什么时候举行？/ 什么时候举行会议？"
+        },
+        {
+            "number": 73,
+            "correctAnswer": "textInput",
+            "value": "他们班的学生学习很努力。"
+        },
+        {
+            "number": 74,
+            "correctAnswer": "textInput",
+            "value": "马和羊都喜欢吃草。"
+        },
+        {
+            "number": 75,
+            "correctAnswer": "textInput",
+            "value": "老年人要关心自己的腿脚。"
+        },
+        {
+            "number": 76,
+            "correctAnswer": "textInput",
+            "value": "中"
+        },
+        {
+            "number": 77,
+            "correctAnswer": "textInput",
+            "value": "只"
+        },
+        {
+            "number": 78,
+            "correctAnswer": "textInput",
+            "value": "日"
+        },
+        {
+            "number": 79,
+            "correctAnswer": "textInput",
+            "value": "右"
+        },
+        {
+            "number": 80,
+            "correctAnswer": "textInput",
+            "value": "分"
+        }
+    ],
+    "H31002": [
+        {
+            "number": 1,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 2,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 3,
+            "correctAnswer": "multipleChoice",
+            "value": "F"
+        },
+        {
+            "number": 4,
+            "correctAnswer": "multipleChoice",
+            "value": "E"
+        },
+        {
+            "number": 5,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 6,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 7,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 8,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 9,
+            "correctAnswer": "multipleChoice",
+            "value": "D"
+        },
+        {
+            "number": 10,
+            "correctAnswer": "multipleChoice",
+            "value": "E"
+        },
+        {
+            "number": 11,
+            "correctAnswer": "trueFalse",
+            "value": false
+        },
+        {
+            "number": 12,
+            "correctAnswer": "trueFalse",
+            "value": true
+        },
+        {
+            "number": 13,
+            "correctAnswer": "trueFalse",
+            "value": true
+        },
+        {
+            "number": 14,
+            "correctAnswer": "trueFalse",
+            "value": false
+        },
+        {
+            "number": 15,
+            "correctAnswer": "trueFalse",
+            "value": false
+        },
+        {
+            "number": 16,
+            "correctAnswer": "trueFalse",
+            "value": true
+        },
+        {
+            "number": 17,
+            "correctAnswer": "trueFalse",
+            "value": false
+        },
+        {
+            "number": 18,
+            "correctAnswer": "trueFalse",
+            "value": true
+        },
+        {
+            "number": 19,
+            "correctAnswer": "trueFalse",
+            "value": false
+        },
+        {
+            "number": 20,
+            "correctAnswer": "trueFalse",
+            "value": true
+        },
+        {
+            "number": 21,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 22,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 23,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 24,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 25,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 26,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 27,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 28,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 29,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 30,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 31,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 32,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 33,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 34,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 35,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 36,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 37,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 38,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 39,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 40,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 41,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 42,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 43,
+            "correctAnswer": "multipleChoice",
+            "value": "D"
+        },
+        {
+            "number": 44,
+            "correctAnswer": "multipleChoice",
+            "value": "F"
+        },
+        {
+            "number": 45,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 46,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 47,
+            "correctAnswer": "multipleChoice",
+            "value": "E"
+        },
+        {
+            "number": 48,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 49,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 50,
+            "correctAnswer": "multipleChoice",
+            "value": "D"
+        },
+        {
+            "number": 51,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 52,
+            "correctAnswer": "multipleChoice",
+            "value": "D"
+        },
+        {
+            "number": 53,
+            "correctAnswer": "multipleChoice",
+            "value": "F"
+        },
+        {
+            "number": 54,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 55,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 56,
+            "correctAnswer": "multipleChoice",
+            "value": "E"
+        },
+        {
+            "number": 57,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 58,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 59,
+            "correctAnswer": "multipleChoice",
+            "value": "F"
+        },
+        {
+            "number": 60,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 61,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 62,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 63,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 64,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 65,
+            "correctAnswer": "multipleChoice",
+            "value": "A"
+        },
+        {
+            "number": 66,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 67,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 68,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 69,
+            "correctAnswer": "multipleChoice",
+            "value": "B"
+        },
+        {
+            "number": 70,
+            "correctAnswer": "multipleChoice",
+            "value": "C"
+        },
+        {
+            "number": 71,
+            "correctAnswer": "textInput",
+            "value": "我们先看看菜单。"
+        },
+        {
+            "number": 72,
+            "correctAnswer": "textInput",
+            "value": "她忘了带护照。"
+        },
+        {
+            "number": 73,
+            "correctAnswer": "textInput",
+            "value": "这些葡萄很新鲜。"
+        },
+        {
+            "number": 74,
+            "correctAnswer": "textInput",
+            "value": "熊猫的眼睛和耳朵都是黑色的。"
+        },
+        {
+            "number": 75,
+            "correctAnswer": "textInput",
+            "value": "你敢不敢用冷水洗澡？"
+        },
+        {
+            "number": 76,
+            "correctAnswer": "textInput",
+            "value": "人"
+        },
+        {
+            "number": 77,
+            "correctAnswer": "textInput",
+            "value": "太"
+        },
+        {
+            "number": 78,
+            "correctAnswer": "textInput",
+            "value": "个"
+        },
+        {
+            "number": 79,
+            "correctAnswer": "textInput",
+            "value": "云"
+        },
+        {
+            "number": 80,
+            "correctAnswer": "textInput",
+            "value": "文"
+        }
+    ]
+}

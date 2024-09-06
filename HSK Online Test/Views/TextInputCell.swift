@@ -9,14 +9,21 @@ import UIKit
 
 class TextInputCell: UITableViewCell {
     
-    let questionLabel = UILabel()
+    private lazy var questionLabel: UILabel = {
+        let label = UILabel()
+        label.textColor = .white
+        label.backgroundColor = .systemRed
+        label.textAlignment = .center
+        label.layer.cornerRadius = 8
+        label.layer.masksToBounds = true
+        return label
+    }()
 
     // MARK: - UI Components
     let textField: UITextField = {
         let tf = UITextField()
         tf.placeholder = "Enter your answer"
         tf.borderStyle = .roundedRect
-        tf.translatesAutoresizingMaskIntoConstraints = false
         return tf
     }()
 
@@ -24,6 +31,7 @@ class TextInputCell: UITableViewCell {
     override init(style: UITableViewCell.CellStyle, reuseIdentifier: String?) {
         super.init(style: style, reuseIdentifier: reuseIdentifier)
         setupView()
+        selectionStyle = .none
     }
 
     required init?(coder: NSCoder) {
@@ -36,23 +44,20 @@ class TextInputCell: UITableViewCell {
 
     // MARK: - Setup View
     private func setupView() {
-        questionLabel.translatesAutoresizingMaskIntoConstraints = false
-        textField.translatesAutoresizingMaskIntoConstraints = false
-        
         contentView.addSubview(questionLabel)
         contentView.addSubview(textField)
         
-        // Activate constraints
-        NSLayoutConstraint.activate([
-            // Question label constraints
-            questionLabel.leadingAnchor.constraint(equalTo: contentView.leadingAnchor, constant: 16),
-            questionLabel.centerYAnchor.constraint(equalTo: contentView.centerYAnchor),
-            
-            // TextField constraints
-            textField.leadingAnchor.constraint(equalTo: questionLabel.trailingAnchor, constant: 16),
-            //textField.trailingAnchor.constraint(equalTo: contentView.trailingAnchor, constant: -16),
-            textField.topAnchor.constraint(equalTo: contentView.topAnchor, constant: 8),
-            textField.bottomAnchor.constraint(equalTo: contentView.bottomAnchor, constant: -8)
-        ])
+        // Настройка лейаута с использованием SnapKit
+        questionLabel.snp.makeConstraints { make in
+            make.leading.equalTo(contentView.snp.leading).offset(16)
+            make.centerY.equalTo(contentView.snp.centerY)
+        }
+        
+        textField.snp.makeConstraints { make in
+            make.leading.equalTo(questionLabel.snp.trailing).offset(16)
+            make.trailing.equalTo(contentView.snp.trailing).offset(-16)
+            make.top.equalTo(contentView.snp.top).offset(8)
+            make.bottom.equalTo(contentView.snp.bottom).offset(-8)
+        }
     }
 }

@@ -10,8 +10,8 @@ import AVFoundation
 
 class TestViewController: UIViewController, PDFViewDelegate {
     
-    var level: HSKLevel!
-    var test: Test!
+    var level: HSKLevel
+    var test: Test
     var pdfView: PDFView!
     var player: AVPlayer?
     var isPlaying = false
@@ -21,12 +21,21 @@ class TestViewController: UIViewController, PDFViewDelegate {
     
     var questionViewController: QuestionViewController!
     
+    init(level: HSKLevel, test: Test) {
+        self.level = level
+        self.test = test
+        super.init(nibName: nil, bundle: nil)
+    }
+    
+    required init?(coder: NSCoder) {
+        fatalError("init(coder:) has not been implemented")
+    }
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         
         // Настройка PDFView
-        pdfView = PDFView(frame: .zero)
-        pdfView.translatesAutoresizingMaskIntoConstraints = false
+        pdfView = PDFView()
         pdfView.autoScales = true
         pdfView.delegate = self
         view.addSubview(pdfView)
@@ -35,12 +44,12 @@ class TestViewController: UIViewController, PDFViewDelegate {
         let audioBtn = UIBarButtonItem(barButtonSystemItem: .play, target: self, action: #selector(toggleAudio))
         navigationItem.rightBarButtonItem = audioBtn
         
-        let baseURL = "HSK/" + level.directory + "/" + test.name + "/"
+        let baseDirectory = getLocalDirectoryPath(level: level, testName: test.name)
         
         // Загрузка PDF файла
-        let questionPDF = baseURL + test.questionPDF
-        if let pdfURL = Bundle.main.url(forResource: questionPDF, withExtension: nil) {
-            if let document = PDFDocument(url: pdfURL) {
+        let questionPDF = baseDirectory.appendingPathComponent(test.questionPDF)
+        if FileManager.default.fileExists(atPath: questionPDF.path) {
+            if let document = PDFDocument(url: questionPDF) {
                 pdfView.document = document
             } else {
                 print("Ошибка загрузки PDF документа")
@@ -50,12 +59,12 @@ class TestViewController: UIViewController, PDFViewDelegate {
         }
         
         // Настройка аудиоплеера
-        let audio = baseURL + test.audio
-        if let audioURL = Bundle.main.url(forResource: audio, withExtension: nil) {
-            let playerItem = AVPlayerItem(url: audioURL)
+        let audioPath = baseDirectory.appendingPathComponent(test.audio)
+        if FileManager.default.fileExists(atPath: audioPath.path) {
+            let playerItem = AVPlayerItem(url: audioPath)
             player = AVPlayer(playerItem: playerItem)
         } else {
-            print("Аудио файл не найден: \(audio)")
+            print("Аудио файл не найден: \(audioPath)")
         }
         
         // Запуск таймера
@@ -68,82 +77,106 @@ class TestViewController: UIViewController, PDFViewDelegate {
         addQuestionViewController()
          
         setupConstraints()
-     }
+    }
+    
+    override func viewDidAppear(_ animated: Bool) {
+        super.viewDidAppear(animated)
+        toggleAudio()
+    }
+    
+    private func getLocalDirectoryPath(level: HSKLevel, testName: String) -> URL {
+        let fileManager = FileManager.default
+        let documentsURL = fileManager.urls(for: .documentDirectory, in: .userDomainMask).first!
+        
+        // Создаем путь для HSK/HSK{level}/{testName}
+        let directoryURL = documentsURL
+            .appendingPathComponent("HSK")
+            .appendingPathComponent(level.directory)
+            .appendingPathComponent(testName)
+        
+        return directoryURL
+    }
+
      
      func addQuestionViewController() {
-         questionViewController = QuestionViewController()
+         questionViewController = QuestionViewController(questions: level.answerOption, level: level, test: test)
          addChild(questionViewController)
-         questionViewController.view.translatesAutoresizingMaskIntoConstraints = false
          view.addSubview(questionViewController.view)
          questionViewController.didMove(toParent: self)
      }
      
      func setupConstraints() {
          // Ограничения для pdfView (занимает 70% экрана)
-         NSLayoutConstraint.activate([
-             pdfView.topAnchor.constraint(equalTo: view.topAnchor),
-             pdfView.leadingAnchor.constraint(equalTo: view.leadingAnchor),
-             pdfView.trailingAnchor.constraint(equalTo: view.trailingAnchor),
-             pdfView.heightAnchor.constraint(equalTo: view.heightAnchor, multiplier: 0.7)
-         ])
+         pdfView.snp.makeConstraints { make in
+             make.top.equalToSuperview()
+             make.leading.trailing.equalToSuperview()
+             make.height.equalToSuperview().multipliedBy(0.75)
+         }
          
-         // Ограничения для questionViewController.view (занимает 30% экрана)
-         NSLayoutConstraint.activate([
-             questionViewController.view.topAnchor.constraint(equalTo: pdfView.bottomAnchor),
-             questionViewController.view.leadingAnchor.constraint(equalTo: view.leadingAnchor),
-             questionViewController.view.trailingAnchor.constraint(equalTo: view.trailingAnchor),
-             questionViewController.view.bottomAnchor.constraint(equalTo: view.bottomAnchor)
-         ])
+         // Ограничения для questionViewController.view (занимает 25% экрана)
+         questionViewController.view.snp.makeConstraints { make in
+             make.top.equalTo(pdfView.snp.bottom)
+             make.leading.trailing.bottom.equalToSuperview()
+         }
      }
     
     override func viewDidDisappear(_ animated: Bool) {
         super.viewWillDisappear(animated)
         if self.isMovingFromParent {
-            
             NotificationCenter.default.removeObserver(self, name: .PDFViewPageChanged, object: pdfView)
             countdownTimer?.invalidate()
-            
             player?.pause()
             player?.replaceCurrentItem(with: nil)
             player = nil
-            
             pdfView.document = nil
             pdfView.removeFromSuperview()
             pdfView = nil
         }
     }
     
-    // Обработка изменения страницы
     @objc func handlePageChange() {
         print("Страница изменена через уведомление")
         pdfViewPageChanged(pdfView)
     }
     
-    // MARK: - Отслеживание прогресса страницы
     func pdfViewPageChanged(_ sender: PDFView) {
         guard let currentPage = pdfView.currentPage else { return }
-        
-        // Получаем номер текущей страницы
         let pageIndex = pdfView.document?.index(for: currentPage) ?? 0
         print("Пользователь перешёл на страницу: \(pageIndex + 1)")
         
-        // Здесь можно обновлять информацию о текущем вопросе, если он отображается
         let pageText = currentPage.string ?? ""
         updateCurrentQuestion(from: pageText)
     }
     
     // Обновляем текущий вопрос на основе текста страницы
     func updateCurrentQuestion(from pageText: String) {
-        // Например, ищем наличие вопросов "1.", "2.", "3.", ...
+        // Создаём массив для всех вопросов, которые найдем на текущей странице
+        var foundQuestions = [Int]()
+        
         for i in 1...40 {
-            if pageText.contains("\(i).") {
-                currentQuestion = "Вопрос \(i)"
-                print("Вопрос \(i)")
+            let pattern = "\\b\(i)\\."
+            let regex = try! NSRegularExpression(pattern: pattern)
+            let range = NSRange(location: 0, length: pageText.utf16.count)
+            
+            // Если нашёлся хотя бы один вопрос, добавляем его в массив найденных
+            if regex.firstMatch(in: pageText, options: [], range: range) != nil {
+                foundQuestions.append(i)
             }
         }
+        
+        // Если найдено несколько вопросов, прокручиваем до первого найденного
+        if let firstQuestion = foundQuestions.first {
+            currentQuestion = "Вопрос \(firstQuestion)"
+            print("Вопрос \(firstQuestion)")
+            
+            // Прокрутка до первого найденного вопроса
+            questionViewController.scrollToQuestion(number: firstQuestion)
+        } else {
+            print("Вопросы не найдены на текущей странице")
+        }
     }
+
     
-    // MARK: - Аудио методы
     @objc func toggleAudio() {
         guard let player = player else { return }
         
@@ -157,14 +190,6 @@ class TestViewController: UIViewController, PDFViewDelegate {
         
         isPlaying.toggle()
     }
-    
-    func playAudio() {
-        player?.play()
-        isPlaying = true
-        navigationItem.rightBarButtonItem = UIBarButtonItem(barButtonSystemItem: .pause, target: self, action: #selector(toggleAudio))
-    }
-    
-    // MARK: - Таймер
     
     func startTimer() {
         countdownTimer = Timer.scheduledTimer(timeInterval: 1.0, target: self, selector: #selector(updateTimer), userInfo: nil, repeats: true)
@@ -183,8 +208,6 @@ class TestViewController: UIViewController, PDFViewDelegate {
         countdownTimer?.invalidate()
         countdownTimer = nil
         navigationItem.title = "Время вышло"
-        
-        // Здесь можно добавить логику для окончания теста или уведомления
     }
     
     func formatTime(_ seconds: Int) -> String {
